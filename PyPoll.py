@@ -61,12 +61,6 @@ with open(file_to_load) as election_data:
             winning_count = votes
             winning_percentage = vote_percentage
             winning_candidate = candidate_name
-# Print the candidate vot dictionary.
-print(candidate_votes)
-# Print out the list.
-print(candidate_options)
-# 3. Print the total votes.
-print(total_votes)
 
 # To do: print out 
 winning_candidate_summary = (f"----------------------\n"
