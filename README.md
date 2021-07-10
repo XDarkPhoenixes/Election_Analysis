@@ -40,7 +40,7 @@ More tasks were given by the election commission to complete; these tasks includ
 
 ## Results 
 
-### From the terminal
+### Readouts from the terminal
 
 ![Terminal](https://user-images.githubusercontent.com/84931545/125151055-6aa82f00-e112-11eb-827b-702b362a37c6.PNG)
 
