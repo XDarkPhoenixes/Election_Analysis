@@ -40,6 +40,15 @@ More tasks were given by the election commission to complete; these tasks includ
 
 ## Results 
 
+### From the terminal
+
+![Terminal](https://user-images.githubusercontent.com/84931545/125151055-6aa82f00-e112-11eb-827b-702b362a37c6.PNG)
+
+### Readouts from the txt file.
+
+![txt](https://user-images.githubusercontent.com/84931545/125151058-6c71f280-e112-11eb-948d-4e00cf41f26c.PNG)
+
+
 - Total Votes: 369,711
 
 - County Names
